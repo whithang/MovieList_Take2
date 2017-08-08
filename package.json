@@ -1,0 +1,25 @@
+{
+  "name": "movie_list_take2",
+  "version": "1.0.0",
+  "description": "Movie List Practice Problem - Second Try",
+  "main": "index.js",
+  "scripts": {
+    "react-dev": "babel . --out-dir compiled --presets=es2015,react --ignore=node_modules,compiled --source-maps inline -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly Whiting",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whithang/MovieList_Take2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whithang/MovieList_Take2/issues"
+  },
+  "homepage": "https://github.com/whithang/MovieList_Take2#readme"
+}
